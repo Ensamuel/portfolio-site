@@ -1,0 +1,26 @@
+#vector-image{
+    height: 300px;
+    width: 300px;
+}
+
+.logo{
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+}
+
+.hello-button{
+    height: 50px;
+    width: 300px;
+    font-size: 12px;
+    border-radius: 10px;
+}
+
+.hello-buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hello-row{
+    margin-bottom: 30px;
+}

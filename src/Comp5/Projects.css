@@ -1,0 +1,22 @@
+.projects-div img{
+    height: 200px;
+    width: 200px;
+}
+
+.projects-col{
+  
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5); 
+    border-radius: 20px;
+    padding: 10px;
+  
+    
+}
+
+.projects-col button{
+    margin: 2px;
+  
+    border-radius: 10px;
+}
+
+
+  
