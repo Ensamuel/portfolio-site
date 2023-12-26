@@ -8,10 +8,10 @@ const Footer = () => {
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="ml-auto">
-        <Nav.Link href="#home">Skills</Nav.Link>
-        <Nav.Link href="#link1">Projects</Nav.Link>
+       
+       
         <Nav.Link href="#link2">View My Resume</Nav.Link>
-        <Nav.Link href="#link2">Contact Me</Nav.Link>
+        
         
         {/* Add more Nav.Link components for other links */}
       </Nav>
