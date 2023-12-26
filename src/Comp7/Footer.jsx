@@ -10,7 +10,7 @@ const Footer = () => {
       <Nav className="ml-auto">
        
        
-        <Nav.Link href="#link2">View My Resume</Nav.Link>
+        <a href = 'tinyurl.com/EbubeCv'>View My Resume</Nav.Link>
         
         
         {/* Add more Nav.Link components for other links */}
